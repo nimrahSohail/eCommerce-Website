@@ -1,0 +1,11 @@
+surge
+marknetic.surge.sh
+
+
+
+edit and then deploy:
+surge —domain marknetic.surge.sh
+
+
+Website with add to cart functionality:
+marknetic_js.surge.sh
